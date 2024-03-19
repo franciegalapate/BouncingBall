@@ -1,5 +1,3 @@
-# BouncingBall
-
 # Bouncing Ball Java Program
 
 ## Description
